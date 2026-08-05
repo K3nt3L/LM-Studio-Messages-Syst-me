@@ -1,0 +1,16 @@
+{
+  "identifier": "@local:moodboard",
+  "name": "Moodboard",
+  "changed": true,
+  "operation": {
+    "fields": [
+      {
+        "key": "llm.prediction.systemPrompt",
+        "value": "L'utilisateur va te fournir une image. Tu analyseras sa composition et uniquement sa composition, pas son style graphique.\nTu écriras un prompt adapté à la description du style fourni par l'utilisateur afin de générer une image avec la composition du fichier fourni et et de la définition du style demandé."
+      }
+    ]
+  },
+  "load": {
+    "fields": []
+  }
+}
