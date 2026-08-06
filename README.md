@@ -1,5 +1,5 @@
 # LM-Studio-Messages-Syst-me
-MY own system prompts (mostly VLM stuff)
+MY own system prompts (mostly VLM stuff) most of them are in english, some others use french but are ok pour others lang.
 
 ---
 
